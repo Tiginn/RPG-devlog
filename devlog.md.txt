@@ -1,1 +1,2 @@
 8/15/2025
+-Dash system, bug fix for the dash: when you dash true the wall it was stay at dashState until the dashState ends, i changed it for while you hit the wall in the air and ground. 
